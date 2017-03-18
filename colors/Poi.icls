@@ -4,7 +4,7 @@
     <property name="created">2017-01-03T00:01:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-18T11:40:46</property>
+    <property name="modified">2017-03-18T11:52:28</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <font>
@@ -12,7 +12,15 @@
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono CJK SC Bold" />
+    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono CJK SC Regular" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono CJK SC Bold" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
 </scheme>
