@@ -1,0 +1,14 @@
+<scheme name="Poi" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.5" />
+  <metaInfo>
+    <property name="created">2017-01-03T00:01:44</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-03-09T18:11:28</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro Semibold" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+</scheme>
